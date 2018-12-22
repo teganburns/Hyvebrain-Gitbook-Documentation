@@ -1,14 +1,30 @@
 # Libraries
 
-## Active Client Libraries
 
-### [Javascript](javascript.md) 
+### [Javascript](javascript.md)
 
-\[\]\([https://img.shields.io/badge/Javascript-passing-green.svg](https://img.shields.io/badge/Javascript-passing-green.svg)\)
+![](https://img.shields.io/badge/Javascript-passing-green.svg)
 
-### [Python](python.md) ![](../.gitbook/assets/python-powered-w-200x80.png) 
 
-## Planned Client Libraries
+### [Python](python.md)
+
+![](https://img.shields.io/badge/Python-passing-green.svg) 
+
+
+### [C++](c++.md)
+
+![](https://img.shields.io/badge/C++-not_avaiable-red.svg)
+
+
+### [Android](android.md)
+
+![](https://img.shields.io/badge/Android-not_avaiable-red.svg) 
+
+
+### [IOS](ios.md)
+
+![](https://img.shields.io/badge/IOS-not_avaiable-red.svg) 
+
 
 
 
