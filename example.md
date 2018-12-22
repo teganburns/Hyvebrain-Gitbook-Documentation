@@ -118,10 +118,10 @@ When making a request you need to check three things before working with the dat
 
 ### Result Object
 
-From line three to thirty three in the "[Response.json](example.md#response)" you can see the **result object**. The **result object** contains one of each [**Variable Type**](functions/variable-types/)**.** 
+From line three to thirty three in the "[Response.json](example.md#response)" you can see the **result object**. The **result object** contains one of each [**Variable Type**](hyvebrain-functions/variable-types/)**.** 
 
 {% hint style="info" %}
-Be sure to read more on [**Hyvebrain Variable Types**](functions/variable-types/) to better understand the response data.
+Be sure to read more on [**Hyvebrain Variable Types**](hyvebrain-functions/variable-types/) to better understand the response data.
 {% endhint %}
 
 

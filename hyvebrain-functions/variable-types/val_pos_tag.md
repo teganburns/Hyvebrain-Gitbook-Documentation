@@ -6,7 +6,7 @@
 
 **val\_pos\_tag** is **null** until initialized in a function that either returns **val\_pos\_tag** or takes **val\_pos\_tag** as an argument.
 
-| Value | Enumeration  | Description |
+| Value | Enumeration | Description |
 | :--- | :--- | :--- |
 | 0 | UNKNOWN | Unknown |
 | 1 | ADJ | Adjective |
@@ -23,6 +23,3 @@
 | 12 | X | Other: foreign words, typos, abbreviations |
 | 13 | AFFIX | Affix |
 
-![](../../.gitbook/assets/gitbook-test-template-3-4.png)
-
-<img src="../../.gitbook/assets/gitbook-test-template-3-4.png" width="100%" height="auto" />
