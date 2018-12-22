@@ -25,3 +25,4 @@
 
 ![](../../.gitbook/assets/gitbook-test-template-3-4.png)
 
+<img src="../../.gitbook/assets/gitbook-test-template-3-4.png" width="100%" height="auto" />
