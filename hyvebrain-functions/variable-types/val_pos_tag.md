@@ -23,3 +23,11 @@
 | 12 | X | Other: foreign words, typos, abbreviations |
 | 13 | AFFIX | Affix |
 
+![](../../.gitbook/assets/part-of-speech-tag.png)
+
+![](../../.gitbook/assets/part-of-speech-tag.png)
+
+![](../../.gitbook/assets/part-of-speech-tag.png)
+
+![](../../.gitbook/assets/part-of-speech-tag.png)
+
