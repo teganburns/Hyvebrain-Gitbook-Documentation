@@ -23,5 +23,5 @@
 | 12 | X | Other: foreign words, typos, abbreviations |
 | 13 | AFFIX | Affix |
 
-![](../../.gitbook/assets/gitbook-test-template.png) 
+![](../../.gitbook/assets/gitbook-test-template.png)
 
