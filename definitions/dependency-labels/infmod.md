@@ -1,2 +1,6 @@
+---
+description: Infinitival modifier
+---
+
 # INFMOD
 

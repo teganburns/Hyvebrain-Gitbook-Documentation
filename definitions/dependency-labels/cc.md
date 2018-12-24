@@ -1,2 +1,6 @@
+---
+description: Coordinating conjunction
+---
+
 # CC
 

@@ -1,2 +1,6 @@
+---
+description: Predeterminer
+---
+
 # PREDET
 

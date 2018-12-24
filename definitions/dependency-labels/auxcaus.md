@@ -1,2 +1,6 @@
+---
+description: Causative auxiliary
+---
+
 # AUXCAUS
 

@@ -1,2 +1,6 @@
+---
+description: Foreign words
+---
+
 # FOREIGN
 

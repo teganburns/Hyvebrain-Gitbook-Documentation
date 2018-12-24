@@ -1,2 +1,6 @@
+---
+description: Temporal modifier
+---
+
 # TMOD
 

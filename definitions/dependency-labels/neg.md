@@ -1,2 +1,6 @@
+---
+description: Negation modifier
+---
+
 # NEG
 
