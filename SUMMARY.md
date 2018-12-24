@@ -55,18 +55,20 @@
   * [get\_depe\_label\_str\_sentence\_root\(\)](hyvebrain-functions/dependency-edge-head-token-index/get_depe_label_str_sentence_root.md)
   * [get\_depe\_label\_sentence\_root\_list\(\)](hyvebrain-functions/dependency-edge-head-token-index/get_depe_label_sentence_root_list.md)
 
-## Parts Of Speech
+## Definitions
 
-* [Adjective](parts-of-speech/adjective.md)
-* [Adposition](parts-of-speech/adposition.md)
-* [Adverb](parts-of-speech/adverb.md)
-* [Conjunction](parts-of-speech/conjunction.md)
-* [Determiner](parts-of-speech/determiner.md)
-* [Noun](parts-of-speech/noun.md)
-* [Cardinal number](parts-of-speech/cardinal-number.md)
-* [Pronoun](parts-of-speech/pronoun.md)
-* [Particle](parts-of-speech/particle.md)
-* [Punctuation](parts-of-speech/punctuation.md)
-* [Verb](parts-of-speech/verb.md)
-* [Affix](parts-of-speech/affix.md)
+* [Parts Of Speech](definitions/parts-of-speech/README.md)
+  * [Adjective](definitions/parts-of-speech/adjective.md)
+  * [Adposition](definitions/parts-of-speech/adposition.md)
+  * [Adverb](definitions/parts-of-speech/adverb.md)
+  * [Conjunction](definitions/parts-of-speech/conjunction.md)
+  * [Determiner](definitions/parts-of-speech/determiner.md)
+  * [Noun](definitions/parts-of-speech/noun.md)
+  * [Cardinal number](definitions/parts-of-speech/cardinal-number.md)
+  * [Pronoun](definitions/parts-of-speech/pronoun.md)
+  * [Particle](definitions/parts-of-speech/particle.md)
+  * [Punctuation](definitions/parts-of-speech/punctuation.md)
+  * [Verb](definitions/parts-of-speech/verb.md)
+  * [Affix](definitions/parts-of-speech/affix.md)
+* [Dependency Labels](definitions/dependency-labels.md)
 
