@@ -70,5 +70,6 @@
   * [Punctuation](definitions/parts-of-speech/punctuation.md)
   * [Verb](definitions/parts-of-speech/verb.md)
   * [Affix](definitions/parts-of-speech/affix.md)
-* [Dependency Labels](definitions/dependency-labels.md)
+* [Dependency Labels](definitions/dependency-labels/README.md)
+  * [ABBREV](definitions/dependency-labels/abbrev.md)
 

@@ -1,0 +1,6 @@
+---
+description: Abbreviation modifier
+---
+
+# ABBREV
+
