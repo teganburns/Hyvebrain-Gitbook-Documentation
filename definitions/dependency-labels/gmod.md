@@ -1,0 +1,6 @@
+---
+description: Genitive modifier
+---
+
+# GMOD
+

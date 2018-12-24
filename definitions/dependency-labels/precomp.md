@@ -1,0 +1,6 @@
+---
+description: Predicate complement
+---
+
+# PRECOMP
+

@@ -1,0 +1,6 @@
+---
+description: Adjectival complement
+---
+
+# ACOMP
+

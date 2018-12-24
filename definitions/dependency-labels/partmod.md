@@ -1,0 +1,6 @@
+---
+description: Participial modifier
+---
+
+# PARTMOD
+

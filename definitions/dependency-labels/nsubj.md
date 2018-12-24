@@ -1,0 +1,6 @@
+---
+description: Nominal subject
+---
+
+# NSUBJ
+

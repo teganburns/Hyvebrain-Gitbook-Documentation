@@ -1,0 +1,6 @@
+---
+description: Preconjunt
+---
+
+# PRECONJ
+

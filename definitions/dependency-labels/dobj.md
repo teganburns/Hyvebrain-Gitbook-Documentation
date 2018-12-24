@@ -1,0 +1,6 @@
+---
+description: Direct object
+---
+
+# DOBJ
+

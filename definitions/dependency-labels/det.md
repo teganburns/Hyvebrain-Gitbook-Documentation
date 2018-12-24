@@ -1,0 +1,6 @@
+---
+description: Determiner
+---
+
+# DET
+
