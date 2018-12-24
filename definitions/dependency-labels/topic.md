@@ -1,6 +1,2 @@
----
-description: Topic marker
----
-
 # TOPIC
 

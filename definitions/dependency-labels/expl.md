@@ -1,6 +1,2 @@
----
-description: Expletive
----
-
 # EXPL
 

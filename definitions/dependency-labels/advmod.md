@@ -1,6 +1,2 @@
----
-description: Adverbial modifier
----
-
 # ADVMOD
 

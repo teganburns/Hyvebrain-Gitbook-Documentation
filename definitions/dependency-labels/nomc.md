@@ -1,6 +1,2 @@
----
-description: Nominalized clause
----
-
 # NOMC
 

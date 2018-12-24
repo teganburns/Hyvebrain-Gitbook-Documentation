@@ -1,6 +1,2 @@
----
-description: Punctuation mark
----
-
 # P
 

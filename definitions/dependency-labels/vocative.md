@@ -1,6 +1,2 @@
----
-description: Vocative
----
-
 # VOCATIVE
 

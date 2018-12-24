@@ -1,6 +1,2 @@
----
-description: Name title
----
-
 # TITLE
 

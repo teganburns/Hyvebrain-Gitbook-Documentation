@@ -1,6 +1,2 @@
----
-description: Conjunct
----
-
 # CONJ
 

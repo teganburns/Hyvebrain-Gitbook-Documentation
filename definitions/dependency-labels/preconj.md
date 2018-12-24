@@ -1,6 +1,2 @@
----
-description: Preconjunt
----
-
 # PRECONJ
 

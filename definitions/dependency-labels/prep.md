@@ -1,6 +1,2 @@
----
-description: Prepositional modifier
----
-
 # PREP
 

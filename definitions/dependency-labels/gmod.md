@@ -1,6 +1,2 @@
----
-description: Genitive modifier
----
-
 # GMOD
 

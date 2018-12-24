@@ -1,6 +1,2 @@
----
-description: Possession modifier
----
-
 # POSS
 
