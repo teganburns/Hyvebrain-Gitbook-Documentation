@@ -1,7 +1,3 @@
----
-description: Punctuation
----
-
 # PUNCT
 
 

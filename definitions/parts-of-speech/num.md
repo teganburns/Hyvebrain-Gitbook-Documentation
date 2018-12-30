@@ -1,7 +1,3 @@
----
-description: Cardinal number
----
-
 # NUM
 
 

@@ -47,4 +47,3 @@ The content of the return value varies based on the function being called. For e
 | get\_pos\_tag\_X\(\) | [X](../../../definitions/parts-of-speech/x.md) |
 | get\_pos\_tag\_AFFIX\(\) | [AFFIX](../../../definitions/parts-of-speech/affix.md) |
 
-
