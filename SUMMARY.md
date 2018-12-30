@@ -66,6 +66,7 @@
 ## Definitions
 
 * [Parts Of Speech](definitions/parts-of-speech/README.md)
+  * [UNKNOWN](definitions/parts-of-speech/unknown.md)
   * [ADJ](definitions/parts-of-speech/adj.md)
   * [ADP](definitions/parts-of-speech/adp.md)
   * [ADV](definitions/parts-of-speech/adv.md)
@@ -80,6 +81,7 @@
   * [X](definitions/parts-of-speech/x.md)
   * [AFFIX](definitions/parts-of-speech/affix.md)
 * [Dependency Labels](definitions/dependency-labels/README.md)
+  * [UNKNOWN](definitions/dependency-labels/unknown.md)
   * [ABBREV](definitions/dependency-labels/abbrev.md)
   * [ACOMP](definitions/dependency-labels/acomp.md)
   * [ADVCL](definitions/dependency-labels/advcl.md)
