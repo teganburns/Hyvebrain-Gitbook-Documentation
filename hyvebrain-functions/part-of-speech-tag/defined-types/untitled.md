@@ -1,5 +1,5 @@
 ---
-description: Alias for functions that retrieve a defined part of speech tag type
+description: Alias for functions that retrieve a defined part of speech tag type as a
 ---
 
 # get\_pos\_tag\_-\_list\(\)
