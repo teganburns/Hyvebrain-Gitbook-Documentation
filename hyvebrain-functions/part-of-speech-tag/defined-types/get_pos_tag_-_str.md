@@ -27,7 +27,7 @@ The content of the return value varies based on the function being called. For e
 Iterates through each token \([**`val_int_ti`**](../../variable-types/val_int_ti.md)\) in the provided sentence \([**`val_int_si`**](../../variable-types/val_int_si.md)\). For each token it will check the part of speech tag \([**`val_pos_tag`**](../../variable-types/val_pos_tag.md)\) type. If the part of speech tag type matches the defined type the token's string value will be appended to a vector. When there are no more tokens in the sentence to iterate though the vector is returned.
 
 {% hint style="success" %}
-🥇 **Pro-tip**: These functions are almost the same as [**`get_pos_tag_-()`**](untitled-2.md)
+🥇 **Pro-tip**: These functions are almost the same as [**`get_pos_tag_-()`**](get_pos_tag_.md)
 
 Instead of returning a vector of token indexes \([**`val_vec_int_ti`**](../../variable-types/val_vec_int_ti.md)\) the tokens are represented as a string \([**`val_vec_str`**](../../variable-types/val_vec_str.md)\)
 {% endhint %}
