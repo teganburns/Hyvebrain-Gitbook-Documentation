@@ -1,7 +1,5 @@
 ---
-description: >-
-  Alias for functions that retrieve a defined part of speech tag type as a
-  string
+description: Alias for functions that retrieve a defined part of speech tag type
 ---
 
 # get\_pos\_tag\_-\_str\(\)
@@ -10,9 +8,9 @@ description: >-
 
 {% tabs %}
 {% tab title="Argument" %}
-\*\*\*\*[**`val_vec_int_si`**](../../variable-types/val_vec_int_si.md)
+[**`val_int_si`**](../../variable-types/val_int_si.md)
 
-If no **`val_vec_int_si`** is supplied the argument will default to **`get_current_sentence_index()`**
+If no **`val_int_si`** is supplied the argument will default to **`get_current_sentence_index()`**
 {% endtab %}
 
 {% tab title="Returns" %}
