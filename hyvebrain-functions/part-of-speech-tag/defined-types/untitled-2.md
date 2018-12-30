@@ -8,15 +8,13 @@ description: Alias for functions that retrieve a defined part of speech tag type
 
 {% tabs %}
 {% tab title="Argument" %}
-**`val_vec_int_si`**
+\*\*\*\*[**`val_vec_int_si`**](../../variable-types/val_vec_int_si.md)
 
 If no **`val_vec_int_si`** is supplied the argument will default to **`get_current_sentence_index()`**
 {% endtab %}
 
 {% tab title="Returns" %}
-**`val_vec_ti`**
-
-Returns a vector of token indexes . 
+\*\*\*\*[**`val_vec_int_ti`**](../../variable-types/val_vec_int_ti.md)
 {% endtab %}
 
 {% tab title="Notes" %}
@@ -42,10 +40,10 @@ The content of the return value varies based on the function being called. For e
 | get\_pos\_tag\_DET\(\) | [DET](../../../definitions/parts-of-speech/det.md) |
 | get\_pos\_tag\_NOUN\(\) | [NOUN](../../../definitions/parts-of-speech/noun.md) |
 | get\_pos\_tag\_NUM\(\) | [NUM](../../../definitions/parts-of-speech/num.md) |
-| get\_pos\_tag\_PRON\(\) | PRON |
-| get\_pos\_tag\_PRT\(\) | PRT |
-| get\_pos\_tag\_PUNCT\(\) | PUNCT |
-| get\_pos\_tag\_VERB\(\) | VERB |
-| get\_pos\_tag\_X\(\) | X |
-| get\_pos\_tag\_AFFIX\(\) | AFFIX |
+| get\_pos\_tag\_PRON\(\) | [PRON](../../../definitions/parts-of-speech/pron.md) |
+| get\_pos\_tag\_PRT\(\) | [PRT](../../../definitions/parts-of-speech/prt.md) |
+| get\_pos\_tag\_PUNCT\(\) | [PUNCT](../../../definitions/parts-of-speech/punct.md) |
+| get\_pos\_tag\_VERB\(\) | [VERB](../../../definitions/parts-of-speech/verb.md) |
+| get\_pos\_tag\_X\(\) | [X](../../../definitions/parts-of-speech/x.md) |
+| get\_pos\_tag\_AFFIX\(\) | [AFFIX](../../../definitions/parts-of-speech/affix.md) |
 
