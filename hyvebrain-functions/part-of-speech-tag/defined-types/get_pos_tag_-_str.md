@@ -29,7 +29,7 @@ Iterates through each token \([**`val_int_ti`**](../../variable-types/val_int_ti
 {% hint style="success" %}
 🥇 **Pro-tip**: These functions are almost the same as [**`get_pos_tag_-()`**](get_pos_tag_.md)
 
-Instead of returning a vector of token indexes \([**`val_vec_int_ti`**](../../variable-types/val_vec_int_ti.md)\) the tokens are represented as a string \([**`val_vec_str`**](../../variable-types/val_vec_str.md)\)
+Instead of returning a vector of token indexes \([**`val_vec_int_ti`**](../../variable-types/val_vec_int_ti.md)\) the tokens are represented as a vector of strings \([**`val_vec_str`**](../../variable-types/val_vec_str.md)\)
 {% endhint %}
 
 ## Defined Functions
