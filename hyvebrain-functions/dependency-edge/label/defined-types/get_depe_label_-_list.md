@@ -24,7 +24,7 @@ The content of the return value varies based on the function being called. For e
 
 ## Operation
 
-Iterates through each sentence \([**`val_int_si`**](../../../variable-types/val_int_si.md)\) in the provided vector of sentences \([**`val_vec_int_si`**](../../../variable-types/val_vec_int_si.md)\). Then iterates through each token \([**`val_int_ti`**](../../../variable-types/val_int_ti.md)\) in the aforementioned sentence \([**`val_int_si`**](../../../variable-types/val_int_si.md)\). For each token it will check the dependency edge label \([**`val_depe_label`**](../../../variable-types/val_depe_label.md)\) type. If the dependency edge label type matches the defined type the token's index will be appended to a vector. When there are no more tokens in the sentence and no more sentences in the vector of sentences to iterate though the vector is returned.
+Iterates through each sentence \([**`val_int_si`**](../../../variable-types/val_int_si.md)\) in the provided vector of sentences \([**`val_vec_int_si`**](../../../variable-types/val_vec_int_si.md)\). Then iterates through each token \([**`val_int_ti`**](../../../variable-types/val_int_ti.md)\) in the aforementioned sentence \([**`val_int_si`**](../../../variable-types/val_int_si.md)\). For each token it will check the dependency edge label \([**`val_depe_label`**](../../../variable-types/val_depe_label.md)\) type. If the dependency edge label type matches the defined type, then the token's index will be appended to a vector. When there are no more tokens in the sentence and no more sentences in the vector of sentences to iterate though the vector is returned.
 
 ## Defined Functions
 
