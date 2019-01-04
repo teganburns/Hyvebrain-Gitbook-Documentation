@@ -2,7 +2,7 @@
 
 ## [Javascript](javascript.md)
 
-![](https://img.shields.io/badge/Javascript-passing-green.svg)
+![Needs to be updated to reflect recent changes](https://img.shields.io/badge/Javascript-passing-green.svg)
 
 ## [Python](python.md)
 
