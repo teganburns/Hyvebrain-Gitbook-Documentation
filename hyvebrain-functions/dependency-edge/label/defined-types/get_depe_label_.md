@@ -1,7 +1,3 @@
----
-description: Alias for functions that retrieve a defined dependency edge label type
----
-
 # get\_depe\_label\_-\(\)
 
 ## Parameters
@@ -30,7 +26,7 @@ Iterates through each token \([**`val_int_ti`**](https://docs.hyvebrain.com/~/dr
 
 | Function Name | Defined Type |
 | :--- | :--- |
-| get\_depe\_label\_UNKNOWN\(\) | [UNKNOWN](../../../../definitions/dependency-labels/unknown.md) |
+| get\_depe\_label\_UNKNOWN\(\) | [UNKNOWN]() |
 | get\_depe\_label\_ABBREV\(\) | [ABBREV](../../../../definitions/dependency-labels/abbrev.md) |
 | get\_depe\_label\_ACOMP\(\) | [ACOMP](../../../../definitions/dependency-labels/acomp.md) |
 | get\_depe\_label\_ADVCL\(\) | [ADVCL](../../../../definitions/dependency-labels/advcl.md) |

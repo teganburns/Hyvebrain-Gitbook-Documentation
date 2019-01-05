@@ -1,7 +1,3 @@
----
-description: Alias for functions that retrieve a defined part of speech tag type
----
-
 # get\_pos\_tag\_-\(\)
 
 ## Parameters
