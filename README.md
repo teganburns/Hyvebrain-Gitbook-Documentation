@@ -1,5 +1,7 @@
 # Foreword
 
+{% embed url="https://www.youtube.com/watch?v=TgASgRakLn0" %}
+
 Before you begin to use **Hyvebrain** it's important to define the purpose of this API. Let's take a step back and look at technology as a whole...
 
 Your **intellectual value** can roughly be summed up to three parts; **processing** _information_, **accessing** _information_, **retaining** _information_. In general we all have the same capacity to perform these functions. Therefore, you are considered smart, or valuable, if you're able to perform these functions __more effectively than others.
