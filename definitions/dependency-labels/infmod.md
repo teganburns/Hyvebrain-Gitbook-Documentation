@@ -1,7 +1,3 @@
----
-description: Infinitival modifier
----
-
 # INFMOD
 
 

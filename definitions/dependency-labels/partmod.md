@@ -1,7 +1,3 @@
----
-description: Participial modifier
----
-
 # PARTMOD
 
 

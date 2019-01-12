@@ -1,7 +1,3 @@
----
-description: Aspect marker
----
-
 # ASP
 
 

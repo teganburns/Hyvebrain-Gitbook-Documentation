@@ -1,7 +1,3 @@
----
-description: Helper auxiliary
----
-
 # AUXVV
 
 

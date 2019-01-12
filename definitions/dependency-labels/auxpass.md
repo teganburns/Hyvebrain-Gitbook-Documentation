@@ -1,7 +1,3 @@
----
-description: Passive auxiliary
----
-
 # AUXPASS
 
 

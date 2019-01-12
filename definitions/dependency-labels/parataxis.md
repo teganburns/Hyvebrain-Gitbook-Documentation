@@ -1,7 +1,3 @@
----
-description: Parataxis relation
----
-
 # PARATAXIS
 
 
