@@ -1,3 +1,7 @@
+---
+description: Indirect object
+---
+
 # IOBJ
 
 

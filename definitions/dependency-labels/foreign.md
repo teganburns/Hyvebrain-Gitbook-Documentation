@@ -1,3 +1,7 @@
+---
+description: Foreign words
+---
+
 # FOREIGN
 
 

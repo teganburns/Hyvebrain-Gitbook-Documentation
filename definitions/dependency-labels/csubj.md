@@ -1,3 +1,7 @@
+---
+description: Clausal subject
+---
+
 # CSUBJ
 
 
