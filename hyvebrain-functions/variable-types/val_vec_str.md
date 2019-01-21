@@ -1,6 +1,6 @@
 # val\_vec\_str
 
-## Synopsis <a id="synopsis"></a>
+## Synopsis  <a id="synopsis"></a>
 
 **val\_vec\_str** is a **Vector** of **Strings.**
 

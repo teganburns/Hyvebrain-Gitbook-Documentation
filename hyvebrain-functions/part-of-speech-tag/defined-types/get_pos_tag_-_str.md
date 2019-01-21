@@ -8,28 +8,28 @@ description: Alias for functions that retrieve a defined part of speech tag type
 
 {% tabs %}
 {% tab title="Argument" %}
-[**`val_int_si`**](../../variable-types/val_int_si.md)
+[`val_int_si`](../../variable-types/val_int_si.md)
 
-If no **`val_int_si`** is supplied the argument will default to **`get_current_sentence_index()`**
+If no `val_int_si` is supplied the argument will default to `get_current_sentence_index()`
 {% endtab %}
 
 {% tab title="Returns" %}
-[**`val_vec_str`**](../../variable-types/val_vec_str.md)
+[`val_vec_str`](../../variable-types/val_vec_str.md)
 {% endtab %}
 
 {% tab title="Notes" %}
-The content of the return value varies based on the function being called. For example if you were to use the **`get_pos_tag_NOUN_str()`** function it would return a vector of strings where the [**`val_pos_tag`**](../../variable-types/val_pos_tag.md) is a [**NOUN**](../../../definitions/parts-of-speech/noun.md).
+The content of the return value varies based on the function being called. For example if you were to use the `get_pos_tag_NOUN_str()` function it would return a vector of strings where the [`val_pos_tag`](../../variable-types/val_pos_tag.md) is a [**NOUN**](../../../definitions/parts-of-speech/noun.md).
 {% endtab %}
 {% endtabs %}
 
 ## Operation
 
-Iterates through each token \([**`val_int_ti`**](../../variable-types/val_int_ti.md)\) in the provided sentence \([**`val_int_si`**](../../variable-types/val_int_si.md)\). For each token it will check the part of speech tag \([**`val_pos_tag`**](../../variable-types/val_pos_tag.md)\) type. If the part of speech tag type matches the defined type the token's string value will be appended to a vector. When there are no more tokens in the sentence to iterate though the vector is returned.
+Iterates through each token \([`val_int_ti`](../../variable-types/val_int_ti.md)\) in the provided sentence \([`val_int_si`](../../variable-types/val_int_si.md)\). For each token it will check the part of speech tag \([`val_pos_tag`](../../variable-types/val_pos_tag.md)\) type. If the part of speech tag type matches the defined type the token's string value will be appended to a vector. When there are no more tokens in the sentence to iterate though the vector is returned.
 
 {% hint style="success" %}
-🥇 **Pro-tip**: These functions are almost the same as [**`get_pos_tag_-()`**](get_pos_tag_.md)
+🥇 **Pro-tip**: These functions are almost the same as [`get_pos_tag_-()`](get_pos_tag_.md)
 
-Instead of returning a vector of token indexes \([**`val_vec_int_ti`**](../../variable-types/val_vec_int_ti.md)\) the tokens are represented as a vector of strings \([**`val_vec_str`**](../../variable-types/val_vec_str.md)\)
+Instead of returning a vector of token indexes \([`val_vec_int_ti`](../../variable-types/val_vec_int_ti.md)\) the tokens are represented as a vector of strings \([`val_vec_str`](../../variable-types/val_vec_str.md)\)
 {% endhint %}
 
 ## Defined Functions

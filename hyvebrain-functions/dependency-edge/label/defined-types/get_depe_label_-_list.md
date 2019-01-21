@@ -14,7 +14,7 @@ If no `val_vec_int_si` is supplied the argument will default to `get_sentence_in
 {% endtab %}
 
 {% tab title="Returns" %}
-\*\*\*\*[`val_vec_int_ti`](../../../variable-types/val_vec_int_ti.md)
+[`val_vec_int_ti`](../../../variable-types/val_vec_int_ti.md)
 {% endtab %}
 
 {% tab title="Notes" %}

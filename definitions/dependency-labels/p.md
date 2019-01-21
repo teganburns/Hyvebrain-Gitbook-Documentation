@@ -4,5 +4,3 @@ description: Punctuation mark
 
 # P
 
-
-

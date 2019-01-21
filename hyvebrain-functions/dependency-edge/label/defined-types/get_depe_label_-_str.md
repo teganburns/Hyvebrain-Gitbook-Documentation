@@ -27,7 +27,7 @@ The content of the return value varies based on the function being called. For e
 Iterates through each token \([`val_int_ti`](https://docs.hyvebrain.com/~/drafts/-LUwZHJukv0KMhgvdvUK/primary/hyvebrain-functions/variable-types/val_int_ti)\) in the provided sentence \([`val_int_si`](https://docs.hyvebrain.com/~/drafts/-LUwZHJukv0KMhgvdvUK/primary/hyvebrain-functions/variable-types/val_int_si)\). For each token it will check the dependency edge label \([`val_depe_label`](../../../variable-types/val_depe_label.md)\) type. If the dependency edge label type matches the defined type the token's string value will be appended to a vector. When there are no more tokens in the sentence to iterate though the vector is returned.
 
 {% hint style="success" %}
-🥇 **Pro-tip**: These functions are almost the same as [`get_depe_label_-()`](get_depe_label_.md)**\`\`**
+🥇 **Pro-tip**: These functions are almost the same as [`get_depe_label_-()`](get_depe_label_.md)
 
 Instead of returning a vector of token indexes \([`val_vec_int_ti`](../../../variable-types/val_vec_int_ti.md)\) the tokens are represented as a vector of strings \([`val_vec_str`](../../../variable-types/val_vec_str.md)\)
 {% endhint %}

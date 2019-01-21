@@ -2,7 +2,7 @@
 
 ## Hello World
 
-For this example we will breakdown the "[Hello\_World.sh](example.md#hello-world)" script below. The script will make a cURL request to **api.hyvebrain.com/v/testing/.** The **text\_content** in the request is the first sentence on the Wikipedia page for [Turing Test](https://en.wikipedia.org/wiki/Turing_test). The script also requests that the **get\_pos\_tag\_NOUN\_list** function is called. Copy and paste the code into a bash terminal to see the API  in action.
+For this example we will breakdown the "[Hello\_World.sh](example.md#hello-world)" script below. The script will make a cURL request to **api.hyvebrain.com/v/testing/.** The **text\_content** in the request is the first sentence on the Wikipedia page for [Turing Test](https://en.wikipedia.org/wiki/Turing_test). The script also requests that the **get\_pos\_tag\_NOUN\_list** function is called. Copy and paste the code into a bash terminal to see the API in action.
 
 {% code-tabs %}
 {% code-tabs-item title="Hello\_World.sh" %}
@@ -11,7 +11,6 @@ For this example we will breakdown the "[Hello\_World.sh](example.md#hello-world
 curl -s --header "Content-Type: application/json" \
 --request POST "https://api.hyvebrain.com/v/testing/" \
 --data '{"text_content":"The Turing test, developed by Alan Turing in 1950, is a test of a machine'\''s ability to exhibit intelligent behavior equivalent to, or indistinguishable from, that of a human.","functions": [ "get_pos_tag_NOUN_list" ] }'
-
 ```
 {% endcode-tabs-item %}
 {% endcode-tabs %}
@@ -26,7 +25,7 @@ Now let's breakdown the request into different parts to better understand each s
 
 ### URL Endpoint
 
-The url endpoint is the address that the request will be sent to. On line number two of the ["Hello\_World.sh"](example.md#hello-world) example \(above\) we see the url endpoint : `https://api.hyvebrain.com/v/testing/`There is currently only one endpoint for this API but that may change in the future. 
+The url endpoint is the address that the request will be sent to. On line number two of the ["Hello\_World.sh"](example.md#hello-world) example \(above\) we see the url endpoint : `https://api.hyvebrain.com/v/testing/`There is currently only one endpoint for this API but that may change in the future.
 
 {% hint style="warning" %}
 All requests made must be a HTTP POST request. All other HTTP request types will result in an error.
@@ -34,19 +33,19 @@ All requests made must be a HTTP POST request. All other HTTP request types will
 
 ### **Content Body**
 
-The content body is where you will specify the parameters of the request. For this part we will look at the four different parameters can used. 
+The content body is where you will specify the parameters of the request. For this part we will look at the four different parameters can used.
 
-The first two of these are the content to be analyzed. This can either be **text\_content** or **natural\_language\_raw\_data.** 
+The first two of these are the content to be analyzed. This can either be **text\_content** or **natural\_language\_raw\_data.**
 
 ### text\_content
 
-**text\_content** is a string. This string can be words or sentences that you want to perform functions on. 
+**text\_content** is a string. This string can be words or sentences that you want to perform functions on.
 
-In the "[Hello\_World.sh](example.md#hello-world)" example you can see on line four the **text\_content** is: _`"The Turing test, developed by Alan Turing in 1950, is a test of a machine's ability to exhibit intelligent behavior equivalent to, or indistinguishable from, that of a human."`_
+In the "[Hello\_World.sh](example.md#hello-world)" example you can see on line four the **text\_content** is: `"The Turing test, developed by Alan Turing in 1950, is a test of a machine's ability to exhibit intelligent behavior equivalent to, or indistinguishable from, that of a human."`
 
 ### natural\_language\_raw\_data
 
-**natural\_language\_raw\_data** is a json object. This json object is returned when requested via the [**return\_natural\_language\_raw\_data**](example.md#return_natural_language_raw_data). 
+**natural\_language\_raw\_data** is a json object. This json object is returned when requested via the [**return\_natural\_language\_raw\_data**](example.md#return_natural_language_raw_data).
 
 If you have received this json object via [**return\_natural\_language\_raw\_data**](example.md#return_natural_language_raw_data) from a previous request and would like to execute functions on the same [**text\_content**](example.md#text_content) use the key **natural\_language\_raw\_data** with the json object as the value.
 
@@ -103,7 +102,6 @@ Your response to the "Hello\_World.sh" example should look similar to the exampl
     "natural_language_raw_data": null
   }
 }
-
 ```
 {% endcode-tabs-item %}
 {% endcode-tabs %}
@@ -118,11 +116,9 @@ When making a request you need to check three things before working with the dat
 
 ### Result Object
 
-From line three to thirty three in the "[Response.json](example.md#response)" you can see the **result object**. The **result object** contains one of each [**Variable Type**](hyvebrain-functions/variable-types/)**.** 
+From line three to thirty three in the "[Response.json](example.md#response)" you can see the **result object**. The **result object** contains one of each [**Variable Type**](hyvebrain-functions/variable-types/)**.**
 
 {% hint style="info" %}
 Be sure to read more on [**Hyvebrain Variable Types**](hyvebrain-functions/variable-types/) to better understand the response data.
 {% endhint %}
-
-
 

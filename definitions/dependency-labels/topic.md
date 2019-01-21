@@ -4,5 +4,3 @@ description: Topic marker
 
 # TOPIC
 
-
-

@@ -4,29 +4,29 @@
 
 {% tabs %}
 {% tab title="Argument" %}
-[**`val_int_si`**](../../../variable-types/val_int_si.md)
+[`val_int_si`](../../../variable-types/val_int_si.md)
 
-If no **`val_int_si`** is supplied the argument will default to **`get_current_sentence_index()`**
+If no `val_int_si` is supplied the argument will default to `get_current_sentence_index()`
 {% endtab %}
 
 {% tab title="Returns" %}
-\*\*\*\*[**`val_vec_int_ti`**](../../../variable-types/val_vec_int_ti.md)
+[`val_vec_int_ti`](../../../variable-types/val_vec_int_ti.md)
 {% endtab %}
 
 {% tab title="Notes" %}
-The content of the return value varies based on the function being called. For example if you were to use the **`get_depe_label_POBJ()`** function it would return a vector of token indexes where the [**`val_depe_label`**](../../../variable-types/val_depe_label.md) is a [**POBJ**](../../../../definitions/dependency-labels/pobj.md).
+The content of the return value varies based on the function being called. For example if you were to use the `get_depe_label_POBJ()` function it would return a vector of token indexes where the [`val_depe_label`](../../../variable-types/val_depe_label.md) is a [**POBJ**](../../../../definitions/dependency-labels/pobj.md).
 {% endtab %}
 {% endtabs %}
 
 ## Operation
 
-Iterates through each token \([**`val_int_ti`**](https://docs.hyvebrain.com/~/drafts/-LUwZHJukv0KMhgvdvUK/primary/hyvebrain-functions/variable-types/val_int_ti)\) in the provided sentence \([**`val_int_si`**](https://docs.hyvebrain.com/~/drafts/-LUwZHJukv0KMhgvdvUK/primary/hyvebrain-functions/variable-types/val_int_si)\). For each token it will check the dependency edge label \([**`val_depe_label`**](../../../variable-types/val_depe_label.md)\) type. If the dependency edge label type matches the defined type the token's index will be appended to a vector. When there are no more tokens in the sentence to iterate though the vector is returned.
+Iterates through each token \([`val_int_ti`](https://docs.hyvebrain.com/~/drafts/-LUwZHJukv0KMhgvdvUK/primary/hyvebrain-functions/variable-types/val_int_ti)\) in the provided sentence \([`val_int_si`](https://docs.hyvebrain.com/~/drafts/-LUwZHJukv0KMhgvdvUK/primary/hyvebrain-functions/variable-types/val_int_si)\). For each token it will check the dependency edge label \([`val_depe_label`](../../../variable-types/val_depe_label.md)\) type. If the dependency edge label type matches the defined type the token's index will be appended to a vector. When there are no more tokens in the sentence to iterate though the vector is returned.
 
 ## Defined Functions
 
 | Function Name | Defined Type |
 | :--- | :--- |
-| get\_depe\_label\_UNKNOWN\(\) | [UNKNOWN]() |
+| get\_depe\_label\_UNKNOWN\(\) | [UNKNOWN](get_depe_label_.md) |
 | get\_depe\_label\_ABBREV\(\) | [ABBREV](../../../../definitions/dependency-labels/abbrev.md) |
 | get\_depe\_label\_ACOMP\(\) | [ACOMP](../../../../definitions/dependency-labels/acomp.md) |
 | get\_depe\_label\_ADVCL\(\) | [ADVCL](../../../../definitions/dependency-labels/advcl.md) |
@@ -103,6 +103,4 @@ Iterates through each token \([**`val_int_ti`**](https://docs.hyvebrain.com/~/dr
 | get\_depe\_label\_NUMC\(\) | [NUMC](../../../../definitions/dependency-labels/numc.md) |
 | get\_depe\_label\_COP\(\) | [COP](../../../../definitions/dependency-labels/cop.md) |
 | get\_depe\_label\_DISLOCATED\(\) | [DISLOCATED](../../../../definitions/dependency-labels/dislocated.md) |
-
-
 

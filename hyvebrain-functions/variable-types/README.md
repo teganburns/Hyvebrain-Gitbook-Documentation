@@ -1,4 +1,2 @@
 # Variable Types
 
-
-

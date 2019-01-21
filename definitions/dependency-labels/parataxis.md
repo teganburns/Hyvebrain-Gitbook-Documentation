@@ -4,5 +4,3 @@ description: Parataxis relation
 
 # PARATAXIS
 
-
-

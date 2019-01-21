@@ -1,6 +1,6 @@
 # val\_vec\_depe\_label
 
-## Synopsis <a id="synopsis"></a>
+## Synopsis  <a id="synopsis"></a>
 
 **val\_depe\_label** is an **Integer** that represents an enumerated value \( ::Brain::Language:: \).
 

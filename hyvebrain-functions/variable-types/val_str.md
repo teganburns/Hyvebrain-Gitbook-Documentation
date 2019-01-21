@@ -1,6 +1,6 @@
 # val\_str
 
-## Synopsis <a id="synopsis"></a>
+## Synopsis  <a id="synopsis"></a>
 
 **val\_str** is a **String**.
 

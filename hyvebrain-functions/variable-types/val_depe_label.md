@@ -69,17 +69,17 @@
 | 58 | TOPIC | Topic maker |
 | 59 | VMOD | Clause headed by an infinite form of the verb that modifies a noun |
 | 60 | VOCATIVE | Vocative |
-| 61 | XCOMP | Open clausal complement  |
+| 61 | XCOMP | Open clausal complement |
 | 62 | SUFFIX | Name suffix |
 | 63 | TITLE | Name title |
 | 64 | ADVPHMOD | Adverbial phrase modifier |
 | 65 | AUXCAUS | Causative auxiliary |
-| 66 | AUXVV | Helper auxiliary  |
+| 66 | AUXVV | Helper auxiliary |
 | 67 | DTMOD | Rentaishi \( Prenominal modifier \) |
 | 68 | FOREIGN | Foreign words |
 | 69 | KW | Keyword |
 | 70 | LIST | List for chains of comparable items |
-| 71 | NOMC | Nominalized clause  |
+| 71 | NOMC | Nominalized clause |
 | 72 | NOMCSUBJ | Nominalized clausal subject |
 | 73 | NOMCSUBJPASS | Nominalized clausal passive |
 | 74 | NUMC | Compound of numeric modifier |

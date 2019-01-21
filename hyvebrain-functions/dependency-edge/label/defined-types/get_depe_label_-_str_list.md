@@ -27,7 +27,7 @@ The content of the return value varies based on the function being called. For e
 Iterates through each sentence \([`val_int_si`](../../../variable-types/val_int_si.md)\) in the provided vector of sentences \([`val_vec_int_si`](../../../variable-types/val_vec_int_si.md)\). Then iterates through each token \([`val_int_ti`](../../../variable-types/val_int_ti.md)\) in the aforementioned sentence \([`val_int_si`](../../../variable-types/val_int_si.md)\). For each token it will check the dependency edge label \([`val_depe_label`](../../../variable-types/val_depe_label.md)\) type. If the dependency edge label type matches the defined type, then the token's string value will be appended to a vector. When there are no more tokens in the sentence and no more sentences in the vector of sentences to iterate though the vector is returned.
 
 {% hint style="success" %}
-**Pro-tip**: These functions are almost the same as [`get_depe_label_-_list()`](get_depe_label_-_list.md)**\`\`**
+**Pro-tip**: These functions are almost the same as [`get_depe_label_-_list()`](get_depe_label_-_list.md)
 
 Instead of returning a vector of token indexes \([`val_vec_int_ti`](../../../variable-types/val_vec_int_ti.md)\) the tokens are represented as a vector of strings \([`val_vec_str`](../../../variable-types/val_vec_str.md)\)
 {% endhint %}

@@ -4,5 +4,3 @@ description: Nominalized clause
 
 # NOMC
 
-
-

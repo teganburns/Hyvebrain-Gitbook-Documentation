@@ -1,10 +1,18 @@
+---
+description: Needs to be updated to reflect recent changes
+---
+
 # Javascript
 
-#### Include Script
+## Include Script
+
+!\[Needs to be updated to reflect recent changes\]\(https://img.shields.io/badge/Javascript-passing-green.svg\)
 
 `<script src="http://cdn.hyvebrain.com/libs/js/1.0.0/hyvebrain.js"></script>`
 
-#### Minified Version
+## Minified Version 
+
+!\[Needs to be updated to reflect recent changes\]\(https://img.shields.io/badge/Javascript-passing-green.svg\)
 
 `<script src="http://cdn.hyvebrain.com/libs/js/1.0.0/hyvebrain.min.js"></script>`
 
@@ -20,7 +28,7 @@ document.addEventListener("DOMContentLoaded", function(event) {
     hb.xml_http_request.addEventListener("load", transferComplete);
     hb.xml_http_request.addEventListener("error", transferFailed);
     hb.xml_http_request.addEventListener("abort", transferCancelled);
-    
+
     // Build Request
     hb.setTextContent( 'My name is Tegan Burns. ' )
         .appendTextContent( 'I like computers.' )
@@ -44,7 +52,6 @@ function transferFailed(evt) {
 function transferCancelled(evt) {
         console.log('request cancelled');
 }
-
 ```
 {% endcode-tabs-item %}
 {% endcode-tabs %}

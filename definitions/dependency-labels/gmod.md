@@ -4,5 +4,3 @@ description: Genitive modifier
 
 # GMOD
 
-
-

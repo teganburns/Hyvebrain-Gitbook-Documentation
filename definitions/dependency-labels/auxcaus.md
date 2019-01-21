@@ -4,5 +4,3 @@ description: Causative auxiliary
 
 # AUXCAUS
 
-
-

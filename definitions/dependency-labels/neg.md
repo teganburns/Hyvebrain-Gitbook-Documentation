@@ -4,5 +4,3 @@ description: Negation modifier
 
 # NEG
 
-
-

@@ -1,4 +1,2 @@
 # Part Of Speech Tag
 
-
-

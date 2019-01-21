@@ -4,5 +4,3 @@ description: Participial modifier
 
 # PARTMOD
 
-
-

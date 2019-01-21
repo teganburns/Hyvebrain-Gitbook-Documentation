@@ -1,6 +1,6 @@
 # val\_vec\_pos\_tag
 
-## Synopsis <a id="synopsis"></a>
+## Synopsis  <a id="synopsis"></a>
 
 **val\_vec\_pos\_tag** is a **Vector** of **Enumerations** that represent a **Vector** of [**val\_pos\_tag**](val_pos_tag.md).
 

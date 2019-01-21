@@ -4,23 +4,23 @@
 
 {% tabs %}
 {% tab title="Argument" %}
-[**`val_int_si`**](../../variable-types/val_int_si.md)
+[`val_int_si`](../../variable-types/val_int_si.md)
 
-If no **`val_int_si`** is supplied the argument will default to **`get_current_sentence_index()`**
+If no `val_int_si` is supplied the argument will default to `get_current_sentence_index()`
 {% endtab %}
 
 {% tab title="Returns" %}
-\*\*\*\*[**`val_vec_int_ti`**](../../variable-types/val_vec_int_ti.md)
+[`val_vec_int_ti`](../../variable-types/val_vec_int_ti.md)
 {% endtab %}
 
 {% tab title="Notes" %}
-The content of the return value varies based on the function being called. For example if you were to use the **`get_pos_tag_NOUN()`** function it would return a vector of token indexes where the [**`val_pos_tag`**](../../variable-types/val_pos_tag.md) is a [**NOUN**](../../../definitions/parts-of-speech/noun.md).
+The content of the return value varies based on the function being called. For example if you were to use the `get_pos_tag_NOUN()` function it would return a vector of token indexes where the [`val_pos_tag`](../../variable-types/val_pos_tag.md) is a [**NOUN**](../../../definitions/parts-of-speech/noun.md).
 {% endtab %}
 {% endtabs %}
 
 ## Operation
 
-Iterates through each token \([**`val_int_ti`**](https://docs.hyvebrain.com/~/drafts/-LUwZHJukv0KMhgvdvUK/primary/hyvebrain-functions/variable-types/val_int_ti)\) in the provided sentence \([**`val_int_si`**](https://docs.hyvebrain.com/~/drafts/-LUwZHJukv0KMhgvdvUK/primary/hyvebrain-functions/variable-types/val_int_si)\). For each token it will check the part of speech tag \([**`val_pos_tag`**](https://docs.hyvebrain.com/~/drafts/-LUwZHJukv0KMhgvdvUK/primary/hyvebrain-functions/variable-types/val_pos_tag)\) type. If the part of speech tag type matches the defined type the token's index will be appended to a vector. When there are no more tokens in the sentence to iterate though the vector is returned.
+Iterates through each token \([`val_int_ti`](https://docs.hyvebrain.com/~/drafts/-LUwZHJukv0KMhgvdvUK/primary/hyvebrain-functions/variable-types/val_int_ti)\) in the provided sentence \([`val_int_si`](https://docs.hyvebrain.com/~/drafts/-LUwZHJukv0KMhgvdvUK/primary/hyvebrain-functions/variable-types/val_int_si)\). For each token it will check the part of speech tag \([`val_pos_tag`](https://docs.hyvebrain.com/~/drafts/-LUwZHJukv0KMhgvdvUK/primary/hyvebrain-functions/variable-types/val_pos_tag)\) type. If the part of speech tag type matches the defined type the token's index will be appended to a vector. When there are no more tokens in the sentence to iterate though the vector is returned.
 
 ## Defined Functions
 

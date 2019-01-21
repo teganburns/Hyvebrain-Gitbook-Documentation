@@ -1,6 +1,6 @@
 # val\_vec\_int\_si
 
-## Synopsis <a id="synopsis"></a>
+## Synopsis  <a id="synopsis"></a>
 
 **val\_vec\_int\_si** is a **Vector** of **Integers** that represent a **Vector** of [sentence indexes](val_int_si.md).
 
