@@ -68,6 +68,18 @@
       * [get\_depe\_label\_slave\_index\_list\(\)](hyvebrain-functions/dependency-edge/label/undefined-types/get_depe_label_slave_index_list.md)
       * [get\_depe\_label\_str\_sentence\_root\(\)](hyvebrain-functions/dependency-edge/label/undefined-types/get_depe_label_str_sentence_root.md)
       * [get\_depe\_label\_sentence\_root\_list\(\)](hyvebrain-functions/dependency-edge/label/undefined-types/get_depe_label_sentence_root_list.md)
+* [Parsing Morphology](hyvebrain-functions/parsing-morphology/README.md)
+  * [get\_aspect\(\)](hyvebrain-functions/parsing-morphology/get_aspect.md)
+  * [get\_instance\(\)](hyvebrain-functions/parsing-morphology/get_instance.md)
+  * [get\_form\(\)](hyvebrain-functions/parsing-morphology/get_form.md)
+  * [get\_gender\(\)](hyvebrain-functions/parsing-morphology/get_gender.md)
+  * [get\_mood\(\)](hyvebrain-functions/parsing-morphology/get_mood.md)
+  * [get\_number\(\)](hyvebrain-functions/parsing-morphology/get_number.md)
+  * [get\_person\(\)](hyvebrain-functions/parsing-morphology/get_person.md)
+  * [get\_proper\(\)](hyvebrain-functions/parsing-morphology/get_proper.md)
+  * [get\_reciprocity\(\)](hyvebrain-functions/parsing-morphology/get_reciprocity.md)
+  * [get\_tense\(\)](hyvebrain-functions/parsing-morphology/get_tense.md)
+  * [get\_voice\(\)](hyvebrain-functions/parsing-morphology/get_voice.md)
 
 ## Definitions
 
