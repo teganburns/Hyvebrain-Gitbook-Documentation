@@ -22,6 +22,7 @@
   * [val\_vec\_pos\_tag](hyvebrain-functions/variable-types/val_vec_pos_tag.md)
   * [val\_vec\_depe\_label](hyvebrain-functions/variable-types/val_vec_depe_label.md)
   * [val\_vec\_str](hyvebrain-functions/variable-types/val_vec_str.md)
+  * [Part Of Speech Tag Enumerations](hyvebrain-functions/variable-types/part-of-speech-tag-enumerations.md)
 * [Part Of Speech Tag](hyvebrain-functions/part-of-speech-tag/README.md)
   * [Defined Types](hyvebrain-functions/part-of-speech-tag/defined-types/README.md)
     * [get\_pos\_tag\_-\(\)](hyvebrain-functions/part-of-speech-tag/defined-types/get_pos_tag_.md)
