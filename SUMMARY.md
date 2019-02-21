@@ -80,6 +80,9 @@
   * [get\_reciprocity\(\)](hyvebrain-functions/parsing-morphology/get_reciprocity.md)
   * [get\_tense\(\)](hyvebrain-functions/parsing-morphology/get_tense.md)
   * [get\_voice\(\)](hyvebrain-functions/parsing-morphology/get_voice.md)
+* [Pattern Searching](hyvebrain-functions/pattern-searching/README.md)
+  * [get\_pos\_tag\_pattern\(\)](hyvebrain-functions/pattern-searching/get_pos_tag_pattern.md)
+  * [get\_pos\_tag\_pattern\_str\(\)](hyvebrain-functions/pattern-searching/get_pos_tag_pattern_str.md)
 
 ## Definitions
 
